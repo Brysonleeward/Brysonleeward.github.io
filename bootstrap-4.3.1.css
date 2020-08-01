@@ -60,7 +60,8 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #1212;
+  background-image: url("https://github.com/Brysonleeward/Brysonleeward.github.io/blob/master/pictures/Comp-Sci.jpg"); 
+  background-position: right top; 
 }
 
 [tabindex="-1"]:focus {
